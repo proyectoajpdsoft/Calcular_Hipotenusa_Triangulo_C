@@ -1,2 +1,1 @@
-# Calcular_Hipotenusa_Triangulo_C
- Calcular la hipotenusa de un triángulo rectángulo con C++
+Enunciado del ejercicio resuelto de programación en C++: realizar un programa que pida el valor de los dos catetos de un triángulo rectángulo y devuelva el valor de la hipotenusa. Más información en: https://proyectoa.com/calcular-la-hipotenusa-de-un-triangulo-rectangulo-con-c/
